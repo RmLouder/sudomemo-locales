@@ -10,7 +10,7 @@ msgid "FLIPNOTE_NOT_FOUND"
 msgstr "¡Vaya! No veo esa Flipnote por ningún lado..."
 
 msgid "I_CANT_FIND_THEM"
-msgstr "¡No le veo!"
+msgstr "¡No lo encuentro!"
 
 msgid "WHERE_IS_IT"
 msgstr "¿Donde está?"
